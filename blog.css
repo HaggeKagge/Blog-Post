@@ -1,0 +1,32 @@
+.no-margin{
+
+margin: 0%;
+    
+}
+    
+.div1{
+    
+display: flex;
+justify-content: space-evenly;
+    
+height: 100px;
+width: 100%;
+background-color: rgb(113, 110, 110);
+    
+}
+    
+.cool-text{
+    
+font-family: 'Open Sans', sans-serif;
+font-size: 40px;
+color: #000000;
+text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+text-decoration-line: underline;
+    
+}
+    
+.no-underline{
+    
+text-decoration: none;
+    
+}
