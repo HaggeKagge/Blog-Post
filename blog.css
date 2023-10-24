@@ -24,3 +24,32 @@ text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
 text-decoration-line: underline;
     
 }
+
+.div2{
+
+display: flex;
+justify-content: center;
+align-items: flex-start;
+
+background-color: #EDF2F4;
+font-size: 13px;
+
+text-align: center;
+
+}
+
+.div3{
+
+width: 700px;
+height: 200px;
+
+background-color: #EDF2F4;
+text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+
+}
+
+body{
+
+background-color: #EDF2F4;
+
+}

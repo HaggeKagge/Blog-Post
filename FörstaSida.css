@@ -45,10 +45,29 @@ text-align: center;
 .div3{
 
 width: 700px;
-height: 607px;
+height: 200px;
 
 background-color: #EDF2F4;
 text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-text-decoration-line: underline;
+
+}
+
+.bild{
+
+display: flex;
+justify-content: center;
+
+}
+
+body{
+
+background-color: #EDF2F4;
+
+}
+
+img{
+
+width: auto;
+height: 400px;
 
 }
