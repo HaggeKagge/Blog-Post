@@ -8,9 +8,9 @@ margin: 0%;
 display: flex;
 justify-content: space-evenly;
 
-height: 100px;
+height: 100px;                  /* div1 är för min huvudmeny*/
 width: 100%;
-background-color: #2B2D42;
+background-color: #2B2D42; 
 color: white;
 
 }
@@ -20,7 +20,7 @@ color: white;
 font-family: 'Open Sans', sans-serif;
 font-size: 40px;
 color: #8D99AE;
-text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5); /* cool-text ändrar texten på huvudmeny knapparna*/
 text-decoration-line: underline;
 
 }
@@ -33,7 +33,7 @@ text-decoration: none;
 
 display: flex;
 justify-content: center;
-align-items: flex-start;
+align-items: flex-start;        /* div2 flytar text*/
 
 background-color: #EDF2F4;
 font-size: 10px;
@@ -45,7 +45,7 @@ text-align: center;
 .div3{
 
 width: 700px;
-height: 200px;
+height: 200px;                  /* div3 ändrar storlek och ger text shadow*/
 
 background-color: #EDF2F4;
 text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);

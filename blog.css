@@ -20,7 +20,7 @@ background-color: #2B2D42;
 font-family: 'Open Sans', sans-serif;
 font-size: 40px;
 color: #8D99AE;
-text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5);
+text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.5); /* Alla dessa olika divs och classer ändrar storlek, flytar på olika saker, justera text m.m*/
 text-decoration-line: underline;
     
 }
