@@ -44,30 +44,30 @@ text-align: center;
 
 .div3{
 
-width: 700px;
-height: 200px;                  /* div3 ändrar storlek och ger text shadow*/
+width: 60%;
+height: 40%;                  /* div3 ändrar storlek och ger text shadow*/
 
 background-color: #EDF2F4;
 text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
 }
 
-.bild{
+.bildPappa{
 
 display: flex;
 justify-content: center;
 
 }
 
-body{
+.divBarn{
 
-background-color: #EDF2F4;
+max-width: 100%;
+max-height: 90%;
 
 }
 
-img{
+body{
 
-width: auto;
-height: 400px;
+background-color: #EDF2F4;
 
 }
