@@ -4,12 +4,10 @@ margin: 0%;
 }
 
 .div1{
-
+    
 display: flex;
 justify-content: space-evenly;
-
-height: 100px;                  /* div1 är för min huvudmeny*/
-width: 100%;
+                                    /* div1 är för min huvudmeny*/
 background-color: #2B2D42; 
 color: white;
 
@@ -35,7 +33,6 @@ display: flex;
 justify-content: center;
 align-items: flex-start;        /* div2 flytar text*/
 
-background-color: #EDF2F4;
 font-size: 10px;
 
 text-align: center;
@@ -45,9 +42,8 @@ text-align: center;
 .div3{
 
 width: 60%;
-height: 40%;                  /* div3 ändrar storlek och ger text shadow*/
+height: auto;                  /* div3 ändrar storlek och ger text shadow*/
 
-background-color: #EDF2F4;
 text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
 
 }
